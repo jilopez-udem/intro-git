@@ -1,4 +1,6 @@
 Se agrega una primera línea usando git en la rama main
 se agrega un cambio desde github
+cambio introducido desde github en la linea 3
 un cambio planeado desde la rama 1
+un cambio diferente desde github
 otro cambio desde la rama1
