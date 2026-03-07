@@ -1,0 +1,12 @@
+El objetivo de este archivo es poder saludar a mis amigos.
+
+Hola amigos.
+
+Chao amigos
+
+Una vez hecho esto, damos cierre a nuestro objetivo.
+
+Fin
+
+
+
