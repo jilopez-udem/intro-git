@@ -1,2 +1,3 @@
 Archivo con cambios
 
+Esta es una línea adicional
